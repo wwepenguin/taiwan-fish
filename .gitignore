@@ -1,0 +1,14 @@
+node_modules
+dist
+dist-ssr
+*.local
+.DS_Store
+*.log
+.vscode/*
+!.vscode/extensions.json
+.idea
+# 爬蟲中間產物（原始 HTML 快取）
+data/raw/
+__pycache__/
+# Claude 桌面版預覽設定
+.claude/
